@@ -4,7 +4,7 @@ Virinda's sales store analysis
 ## Project Overview
 This project involves an end-to-end data analysis of Vrinda Store, a fashion retail business. The goal was to analyze sales data to identify key performance indicators (KPIs) and provide actionable insights to help the store grow its sales in 2023. The final output is an interactive Excel dashboard that visualizes sales trends, customer behavior, and regional performance.
 
-Objective
+## Objective
 Vrinda Store needed a comprehensive Annual Sales Report to understand their customers better and identify growth opportunities for the coming year. The primary business questions addressed were:
 
 - Which month achieved the highest sales and orders?
