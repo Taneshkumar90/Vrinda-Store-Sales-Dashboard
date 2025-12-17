@@ -4,8 +4,6 @@ Virinda's sales store analysis
 ## Project Overview
 This project involves an end-to-end data analysis of Vrinda Store, a fashion retail business. The goal was to analyze sales data to identify key performance indicators (KPIs) and provide actionable insights to help the store grow its sales in 2023. The final output is an interactive Excel dashboard that visualizes sales trends, customer behavior, and regional performance.
 
-<img width="800" height="500" alt="Gemini_Generated_Image_xb6xnoxb6xnoxb6x" src="https://github.com/user-attachments/assets/2240ac44-da2a-46ca-a54f-07ff70d3f7e1" />
-
 
 ## Objective
 Vrinda Store needed a comprehensive Annual Sales Report to understand their customers better and identify growth opportunities for the coming year. The primary business questions addressed were:
@@ -22,6 +20,7 @@ Vrinda Store needed a comprehensive Annual Sales Report to understand their cust
 
 - Which sales channel (Amazon, Flipkart, Myntra, etc.) contributes the most?
 
+![image](https://github.com/Taneshkumar90/Vrinda-Store-Sales-Dashboard/blob/main/Screenshot%202025-12-13%20121651.png)
 
 ### Tools & Technologies Used
 Microsoft Excel (Primary Tool)
@@ -67,4 +66,4 @@ Added Slicers for Month, Channel, and Category to make the dashboard dynamic and
 
 - Visualization: Interactive Dashboard with Slicers.
 
-![image](https://github.com/Taneshkumar90/Vrinda-Store-Sales-Dashboard/blob/main/Screenshot%202025-12-13%20121651.png)
+
