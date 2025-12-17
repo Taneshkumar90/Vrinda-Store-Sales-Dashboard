@@ -67,3 +67,4 @@ Added Slicers for Month, Channel, and Category to make the dashboard dynamic and
 
 - Visualization: Interactive Dashboard with Slicers.
 
+![image](https://github.com/Taneshkumar90/Vrinda-Store-Sales-Dashboard/blob/main/Screenshot%202025-12-13%20121651.png)
