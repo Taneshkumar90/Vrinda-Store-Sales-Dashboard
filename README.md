@@ -66,4 +66,19 @@ Added Slicers for Month, Channel, and Category to make the dashboard dynamic and
 
 - Visualization: Interactive Dashboard with Slicers.
 
+#### 5. Key Insights
+- *Peak Sales:* March generated the highest sales and orders.
+
+- *Customer Demographics:* Women contributed to ~65% of purchases.
+
+- *Key Age Group:* The Adult age group (30-49 years) contributes the most to sales.
+
+- *Top Regions:* The top 3 states by sales are Maharashtra, Karnataka, and Uttar Pradesh.
+
+- *Top Channels:* Amazon, Flipkart, and Myntra account for ~80% of total sales.
+
+#### 6. Final Conclusion & Recommendation
+- To improve Vrinda Store's sales in 2023, the marketing strategy should focus on:
+
+  - Targeting women aged 30-49 years living in Maharashtra, Karnataka, and Uttar Pradesh by running ads and offering coupons/discounts on Amazon, Flipkart, and Myntra.
 
